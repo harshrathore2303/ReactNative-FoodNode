@@ -87,7 +87,7 @@ const CreateRestaurant = () => {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: '#dcd8cb'
+        // backgroundColor: '#dcd8cb'
     },
     backgroundVideo: {
         ...StyleSheet.absoluteFillObject,

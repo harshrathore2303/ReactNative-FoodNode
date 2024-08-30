@@ -4,6 +4,7 @@ import Login from './screens/Login/login'
 import RestaurantLogin from './screens/RestaurantLogin/RestaurantLogin'
 import RestaurantScreen from './screens/RestaurantScreen/RestaurantScreen'
 import CreateRestaurant from './screens/CreateRestaurant/CreateRestaurant'
+import AccountVerification from './screens/CreateRestaurant/AccountVerification'
 
 const App = () => {
   return (
@@ -12,7 +13,8 @@ const App = () => {
       {/* <Login /> */}
       {/* <RestaurantLogin/> */}
       {/* <RestaurantScreen/> */}
-      <CreateRestaurant/>
+      {/* <CreateRestaurant/> */}
+      {/* <AccountVerification/> */}
     </SafeAreaView> 
   )
 }
